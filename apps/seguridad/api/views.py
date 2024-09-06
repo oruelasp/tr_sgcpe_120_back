@@ -617,8 +617,6 @@ class UserAPIView(ListAPIView, UpdateAPIView):
             data.update({'compartir_datos': constants.NO_CHAR_BINARY})
         elif flag == constants.NO_CHAR_BINARY:
             data.update({'compartir_datos': constants.SI_CHAR_BINARY})
-
-        # ToDo: Control de que la sede y la dependencia pertenezcan a la misma zona y region
         codigo_sede = None
         codigo_dependencia = None
         codigo_cargo = None
