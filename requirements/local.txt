@@ -1,0 +1,4 @@
+-r ./base.txt
+flake8<3.7
+coverage<4.6
+isort<4.4

@@ -1,0 +1,422 @@
+[
+ {
+   "model": "seguridad.permiso",
+   "pk": 1,
+   "fields": {
+      "nombre": "/programacion/api/regimen/",
+      "modelo": "regimen",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 2,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-dia/",
+      "modelo": "programacion-trabajador-dia",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 3,
+   "fields": {
+      "nombre": "/programacion/api/regimen/r",
+      "modelo": "regimen",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 4,
+   "fields": {
+      "nombre": "/programacion/api/programacion/",
+      "modelo": "programacion",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 5,
+   "fields": {
+      "nombre": "/programacion/api/dependencia/r",
+      "modelo": "dependencia",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 6,
+   "fields": {
+      "nombre": "/programacion/api/modalidad/r",
+      "modelo": "modalidad",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 7,
+   "fields": {
+      "nombre": "/programacion/api/trabajador/r",
+      "modelo": "trabajador",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 8,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador/",
+      "modelo": "programacion-trabajador",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 9,
+   "fields": {
+      "nombre": "/programacion/api/matriz-trabajador-dia/",
+      "modelo": "matriz-trabajador-dia",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 10,
+   "fields": {
+      "nombre": "/programacion/api/observacion-trabajador-dia/",
+      "modelo": "observacion-trabajador-dia",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 11,
+   "fields": {
+      "nombre": "/programacion/api/rotacion-trabajador/",
+      "modelo": "rotacion-trabajador",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 12,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-consolidado/",
+      "modelo": "programacion-trabajador-consolidado",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 13,
+   "fields": {
+      "nombre": "/programacion/api/actividad-trabajador-dia/",
+      "modelo": "actividad-trabajador-dia",
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 14,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-limpiar/",
+      "modelo": "programacion-trabajador-limpiar",
+      "create": true,
+      "read": false,
+      "update": true,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 15,
+   "fields": {
+      "nombre": "/programacion/api/programacion/z",
+      "modelo": "programacion",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+{
+   "model": "seguridad.permiso",
+   "pk": 16,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-dia/z",
+      "modelo": "programacion-trabajador-dia",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 17,
+   "fields": {
+      "nombre": "/programacion/api/regimen/z",
+      "modelo": "regimen",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 18,
+   "fields": {
+      "nombre": "/programacion/api/dependencia/z",
+      "modelo": "dependencia",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 19,
+   "fields": {
+      "nombre": "/programacion/api/modalidad/z",
+      "modelo": "modalidad",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 20,
+   "fields": {
+      "nombre": "/programacion/api/trabajador/z",
+      "modelo": "trabajador",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 21,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador/z",
+      "modelo": "programacion-trabajador",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 22,
+   "fields": {
+      "nombre": "/programacion/api/matriz-trabajador-dia/z",
+      "modelo": "matriz-trabajador-dia",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 23,
+   "fields": {
+      "nombre": "/programacion/api/observacion-trabajador-dia/z",
+      "modelo": "observacion-trabajador-dia",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 24,
+   "fields": {
+      "nombre": "/programacion/api/rotacion-trabajador/z",
+      "modelo": "rotacion-trabajador",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 25,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-consolidado/z",
+      "modelo": "programacion-trabajador-consolidado",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 26,
+   "fields": {
+      "nombre": "/programacion/api/actividad-trabajador-dia/z",
+      "modelo": "actividad-trabajador-dia",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 27,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-limpiar/z",
+      "modelo": "programacion-trabajador-limpiar",
+      "create": false,
+      "read": false,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 28,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-dia/r",
+      "modelo": "programacion-trabajador-dia",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 29,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador/r",
+      "modelo": "programacion-trabajador",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 30,
+   "fields": {
+      "nombre": "/programacion/api/matriz-trabajador-dia/r",
+      "modelo": "matriz-trabajador-dia",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 31,
+   "fields": {
+      "nombre": "/programacion/api/observacion-trabajador-dia/r",
+      "modelo": "observacion-trabajador-dia",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 32,
+   "fields": {
+      "nombre": "/programacion/api/rotacion-trabajador/r",
+      "modelo": "rotacion-trabajador",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 33,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-consolidado/r",
+      "modelo": "programacion-trabajador-consolidado",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 34,
+   "fields": {
+      "nombre": "/programacion/api/actividad-trabajador-dia/r",
+      "modelo": "actividad-trabajador-dia",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+},
+ {
+   "model": "seguridad.permiso",
+   "pk": 35,
+   "fields": {
+      "nombre": "/programacion/api/programacion-trabajador-limpiar/r",
+      "modelo": "programacion-trabajador-limpiar",
+      "create": false,
+      "read": true,
+      "update": false,
+      "delete": false
+   }
+}
+]

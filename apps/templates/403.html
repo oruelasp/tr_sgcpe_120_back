@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block container %}
+  <div>
+    <h2>{{ msg_403}}</h2>
+    <br>
+    <p>
+      <a href="{% url 'login:logout' %}" role="button">Salir del sistema</a>
+    </p>
+  </div>
+{% endblock %}

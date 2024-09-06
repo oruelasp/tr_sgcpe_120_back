@@ -1,0 +1,13 @@
+variables:
+  ANSIBLE_STDOUT_CALLBACK: yaml
+  ANSIBLE_FORCE_COLOR: 'true'
+
+deploy desarrollo:
+  stage: deploy
+  image: registry.trabajo.gob.pe/ogetic/em_certilab_132_back/ansible:2.9
+  script:
+    - cd /opt/root/playbooks/apps
+    - ansible --version
+    - ansible-playbook tr_scalvir_067_back.yml -i hosts -v
+  only:
+    - develop

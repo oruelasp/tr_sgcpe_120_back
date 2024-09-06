@@ -1,0 +1,344 @@
+[
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 1,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 2,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 2,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 3,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 3,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 4,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 4,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 5,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 5,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 6,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 6,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 7,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 7,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 8,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 8,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 9,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 9,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 10,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 10,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 25,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 11,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 13,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 12,
+   "fields": {
+      "grupo_id": 1,
+      "permiso_id": 14,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 13,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 12,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 14,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 28,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 15,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 29,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 16,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 30,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 17,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 31,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 18,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 11,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 19,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 33,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 20,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 34,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 21,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 6,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 22,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 5,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 23,
+   "fields": {
+      "grupo_id": 2,
+      "permiso_id": 3,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 24,
+   "fields": {
+      "grupo_id": 3,
+      "permiso_id": 11,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 25,
+   "fields": {
+      "grupo_id": 3,
+      "permiso_id": 6,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 26,
+   "fields": {
+      "grupo_id": 3,
+      "permiso_id": 5,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 27,
+   "fields": {
+      "grupo_id": 3,
+      "permiso_id": 3,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 28,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 28,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 29,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 29,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 30,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 6,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 31,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 5,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 32,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 3,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 33,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 9,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 34,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 10,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 35,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 13,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 36,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 24,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 37,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 25,
+      "active": true
+   }
+},
+ {
+   "model": "seguridad.grupopermiso",
+   "pk": 38,
+   "fields": {
+      "grupo_id": 4,
+      "permiso_id": 27,
+      "active": true
+   }
+}
+]

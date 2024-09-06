@@ -1,0 +1,44 @@
+{
+    "menu_data": [
+        {
+            "pk_menu": 1,
+            "nombre": "Menu Principal",
+            "url": "/inicio/"
+        },
+        {
+            "pk_menu": 2,
+            "nombre": "Usuarios",
+            "url": "/usuarios/"
+        },
+        {
+            "pk_menu": 3,
+            "nombre": "Agregar Usuario",
+            "url": "/crear-usuario/"
+        },
+        {
+            "pk_menu": 4,
+            "nombre": "Plantillas",
+            "url": "/plantillas/"
+        },
+        {
+            "pk_menu": 5,
+            "nombre": "Mis Solicitudes",
+            "url": "/mis-solicitudes/"
+        },
+        {
+            "pk_menu": 6,
+            "nombre": "Generar Solicitud",
+            "url": "/generar-solicitud/"
+        },
+        {
+            "pk_menu": 7,
+            "nombre": "Audiencias",
+            "url": "/audiencias/"
+        },
+        {
+            "pk_menu": 8,
+            "nombre": "Reportes",
+            "url": "/reportes/"
+        }
+    ]
+}
